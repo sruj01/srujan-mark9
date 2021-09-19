@@ -10,6 +10,7 @@
 body {
   max-width: 800px;
   margin: auto;
+  background-image: url("https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?size=626&ext=jpg");
 }
 .genreButton {
   cursor: pointer;

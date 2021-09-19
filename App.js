@@ -165,7 +165,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1 style={{ color: "cadetblue" }}> <span>📚</span>Books You Ought to Read</h1>
+      <h1 style={{ color: "cadetblue" }}>Books You Ought to Read</h1>
       <h3>Click on a genre and discover the Emissaries of selected genre</h3>
 
       <div>
