@@ -1,1 +1,1 @@
-A book recommendation app made with React in CodeSandbox
+A book recommendation app made with React.
